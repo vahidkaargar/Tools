@@ -1,0 +1,25 @@
+{
+  "name": "vahidkaargar/tools",
+  "type": "library",
+  "description": "Tools that every project need",
+  "keywords": ["tools","project","php"],
+  "homepage": "https://github.com/vahidkaargar",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vahid Kaargar",
+      "email": "vahidkaargar@gmail.com",
+      "homepage": "https://github.com/vahidkaargar",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "vahidkaargar\\Tools": "src/"
+    }
+  },
+  "require": {
+    "afshinpersian/phpslugger": "dev-master",
+    "nesbot/carbon": "^1.29"
+  }
+}
