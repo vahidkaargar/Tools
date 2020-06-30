@@ -1,7 +1,7 @@
 {
   "name": "vahidkaargar/tools",
   "type": "library",
-  "description": "Tools that every project need",
+  "description": "Tools you may need in your project",
   "keywords": ["tools","project","php"],
   "homepage": "https://github.com/vahidkaargar",
   "license": "MIT",
@@ -17,7 +17,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "vahidkaargar\\Tools": "src/"
+      "vahidkaargar\\Tools\\": "src/"
     }
   },
   "require": {
