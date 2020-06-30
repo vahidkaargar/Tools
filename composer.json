@@ -21,6 +21,6 @@
   },
   "require": {
     "afshinpersian/phpslugger": "dev-master",
-    "nesbot/carbon": "^1.29"
+    "nesbot/carbon": "^2.35.0"
   }
 }
