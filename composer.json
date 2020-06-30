@@ -5,6 +5,8 @@
   "keywords": ["tools","project","php"],
   "homepage": "https://github.com/vahidkaargar",
   "license": "MIT",
+  "version": "0.0.1",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Vahid Kaargar",
